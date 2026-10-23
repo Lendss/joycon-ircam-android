@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#1B1F27" android:pathData="M54,4a50,50 0,1 1,0 100a50,50 0,1 1,0 -100z"/>
+    <!-- IR waves -->
+    <path android:strokeColor="#FF5252" android:strokeWidth="5" android:strokeLineCap="round"
+        android:pathData="M26,40a32,32 0,0 1,56 0"/>
+    <path android:strokeColor="#FF8A80" android:strokeWidth="5" android:strokeLineCap="round"
+        android:pathData="M34,46a22,22 0,0 1,40 0"/>
+    <!-- lens -->
+    <path android:fillColor="#E0E0E0" android:pathData="M54,46a20,20 0,1 1,0 40a20,20 0,1 1,0 -40z"/>
+    <path android:fillColor="#2B0A0A" android:pathData="M54,52a14,14 0,1 1,0 28a14,14 0,1 1,0 -28z"/>
+    <path android:fillColor="#E60012" android:pathData="M54,59a7,7 0,1 1,0 14a7,7 0,1 1,0 -14z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M49,58a3,3 0,1 1,0 6a3,3 0,1 1,0 -6z"/>
+</vector>

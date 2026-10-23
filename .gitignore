@@ -1,0 +1,18 @@
+# Whitelist: only the published sources. Research (kernel tree, rail patch, modules),
+# build output, downloaded tools and the signing key stay local.
+/*
+!/.gitignore
+!/README.md
+!/README.ru.md
+!/LICENSE
+!/NOTICE
+!/AndroidManifest.xml
+!/build.sh
+!/ircam.c
+!/src/
+!/res/
+!/tools/
+!/docs/
+/tools/*
+!/tools/fetch.sh
+*.jks
